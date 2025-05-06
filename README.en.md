@@ -1,4 +1,4 @@
-# 🦙 Building LLaMA4 from Scratch
+# llama4-model-learning
 
 Welcome to this project! This repository aims to help users—especially those who prefer reading in Chinese—understand the structure and workflow of the [LLaMA4 model](https://github.com/meta-llama/llama-models/tree/main/models/llama4).
 
