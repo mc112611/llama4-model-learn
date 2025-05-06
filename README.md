@@ -3,7 +3,7 @@
 
 欢迎访问本项目！本仓库旨在帮助中文用户更好地理解 [LLaMA4](https://github.com/meta-llama/llama-models/tree/main/models/llama4) 模型的结构。
 
-📖 [English Version (Coming Soon)](./README.en.md)
+📖 [English Version](./README.en.md)
 
 ---
 
